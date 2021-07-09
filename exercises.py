@@ -8,4 +8,10 @@
 # print(2 + 10 * 10 + 3)
 # print((2 + 10) * (10 + 3))
 # print(1 / 2)
+# print("Hello World"[1:4])
+
+# name = "Sam"
+# last_letters = name[1:]
+# name = name.upper()
+# print(name)
 
